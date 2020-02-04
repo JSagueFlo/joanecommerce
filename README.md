@@ -25,3 +25,6 @@ This is an ecommerce website built with Django. The website displays products. U
 ### Objectiu:
 Iniciar un projecte Django amb les mateixes característiques i funcionalitats que aquest però sense fer servir sass ni bootstrap ni re d'això.  
 Inicialment podriem fer servir jQuery i MaterializeCSS.  
+
+- [ ] Especial atenció als mètodes de pagament
+- [ ] Motor de cerca no creat
