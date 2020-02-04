@@ -11,6 +11,8 @@ This is an ecommerce website built with Django. The website displays products. U
 
 ### Joan notes
 
+https://www.youtube.com/playlist?list=PLLRM7ROnmA9F2vBXypzzplFjcHUaKWWP5
+
 - [x] Capítol 1
 - [ ] Capítol 2
 - [ ] Capítol 3
